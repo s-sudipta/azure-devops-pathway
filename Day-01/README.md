@@ -1,7 +1,5 @@
 <div align="center">
 
-# ☁️ Day 01 — Cloud Computing & Azure DevOps
-
 [![Day](https://img.shields.io/badge/Day-01-blue?style=for-the-badge&logo=azure-devops&logoColor=white)](.)
 [![Topic](https://img.shields.io/badge/Topic-Cloud%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](.)
 
