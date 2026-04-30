@@ -531,7 +531,7 @@ Once the bug fix is done, the hotfix branch follows the **exact same flow** as a
 
 <div align="center">
 
-[![🏠 Back to Repo](https://img.shields.io/badge/Day_02-grey?style=for-the-badge)](../day-02/README.md)
-[![Next ▶](https://img.shields.io/badge/Day_03-0078D4?style=for-the-badge&logo=microsoftazure)](../day-03/README.md)
+[![◀ Previous](https://img.shields.io/badge/◀_Previous-Day_01-grey?style=for-the-badge&logo=microsoftazure)](../day-01/README.md)
+[![Next ▶](https://img.shields.io/badge/Next_▶-Day_03-0078D4?style=for-the-badge&logo=microsoftazure)](../day-03/README.md)
 
 </div>

@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Day](https://img.shields.io/badge/Day-01-blue?style=for-the-badge&logo=azure-devops&logoColor=white)](.)
-[![Topic](https://img.shields.io/badge/Topic-Cloud%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](.)
-
+# ☁️ Day 01 — Cloud Computing & Azure DevOps
 
 > *Cloud Computing → Agile → DevOps → Azure DevOps → Hands-on Portal Walkthrough*
 
@@ -592,7 +590,7 @@ Accessible at the **bottom-left corner**. Configure everything about the project
 
 <div align="center">
 
-[![Back](https://img.shields.io/badge/Back-grey?style=for-the-badge)](../README.md)
-[![Next ▶](https://img.shields.io/badge/Day_02-0078D4?style=for-the-badge&logo=microsoftazure)](../day-02/README.md)
+[![🏠 Back to Home](https://img.shields.io/badge/🏠_Back_to_Home-README-grey?style=for-the-badge)](../README.md)
+[![Next ▶](https://img.shields.io/badge/Next_▶-Day_02-0078D4?style=for-the-badge&logo=microsoftazure)](../day-02/README.md)
 
-</div>
+</div>>
